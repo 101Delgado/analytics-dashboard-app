@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?logo=pandas&logoColor=white)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://analytics-dashboard-app.streamlit.app)
 
 An interactive data visualization application designed to explore, analyze, and extract patterns from temperature records. This dashboard allows users to interact with the data through different views and dynamic filters.
 
