@@ -1,0 +1,10 @@
+# Entorno virtual
+.venv/
+
+# Archivos de caché compilados de Python
+__pycache__/
+*.pyc
+
+# Archivos de sistema (opcional pero recomendado)
+.DS_Store
+Thumbs.db
